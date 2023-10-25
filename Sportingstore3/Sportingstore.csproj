@@ -79,8 +79,8 @@
     <Compile Include="view\catalog.xaml.cs">
       <DependentUpon>catalog.xaml</DependentUpon>
     </Compile>
-    <Compile Include="view\registration.xaml.cs">
-      <DependentUpon>registration.xaml</DependentUpon>
+    <Compile Include="view\RegistrationPage.xaml.cs">
+      <DependentUpon>RegistrationPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="view\showcase.xaml.cs">
       <DependentUpon>showcase.xaml</DependentUpon>
@@ -101,7 +101,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="view\registration.xaml">
+    <Page Include="view\RegistrationPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Sportingstore"
         mc:Ignorable="d"
-        Title="Главна" Height="450" Width="350">
-    <Grid Cursor="">
+        Title="Главная страница" Height="450" Width="350">
+    <Grid>
         <Rectangle Height="280" VerticalAlignment="Top">
             <Rectangle.Fill>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5 0">
@@ -14,7 +14,6 @@
                 </LinearGradientBrush>
             </Rectangle.Fill>
         </Rectangle>
-
         <Rectangle Width="280" Height="200" VerticalAlignment="Bottom" Margin="0 80" RadiusY="10" RadiusX="10" Fill="white">
             <Rectangle.Effect>
                 <DropShadowEffect BlurRadius="15" Direction="0" RenderingBias="Quality" ShadowDepth="1" Color="Green"/>
@@ -32,6 +31,6 @@
         <Button x:Name="enterButton" FontFamily="Comic Sans MS" Cursor="Hand" Width="160" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,65" Content="Войти" Background="DarkSeaGreen" Foreground="White" Padding="7" Click="enterButton_Click"/>
         <Image Source="/img/logo.png" Height="79" VerticalAlignment="Top" Margin="0,30,257,0" RenderTransformOrigin="0.552,1.091"/>
         <Label  FontFamily="Comic Sans MS" Content="Название" HorizontalAlignment="Center" FontSize="50" Margin="91,30,10,310" Width="241"></Label>
-        <Button x:Name="registerButton" FontFamily="Comic Sans MS" Cursor="Hand" Width="160" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="91,0,91,10" Content="Зарегистрироваться" Background="DarkSeaGreen" Foreground="White" Padding="7"/>
+        <Button x:Name="registerButton" FontFamily="Comic Sans MS" Cursor="Hand" Width="160" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="91,0,91,10" Content="Зарегистрироваться" Background="DarkSeaGreen" Foreground="White" Padding="7" Click="registerButton_Click"/>
     </Grid>
 </Window>
