@@ -1,0 +1,86 @@
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\bin\Debug\Sportingstore.exe.config
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\bin\Debug\Sportingstore.exe
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\bin\Debug\Sportingstore.pdb
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\Sportingstore.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\App.g.cs
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\Sportingstore_MarkupCompile.cache
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\Sportingstore_MarkupCompile.lref
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\Sportingstore.g.resources
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\Sportingstore.Properties.Resources.resources
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\Sportingstore.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\Sportingstore.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\Sportingstore.exe
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\Sportingstore.pdb
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\view\registration.g.cs
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\view\registration.baml
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\view\product.g.cs
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\view\product.baml
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\view\showcase.g.cs
+C:\Users\1\Desktop\Sporting goods store1\Sportingstore\obj\Debug\view\showcase.baml
+D:\Dev\Sportingstore3\obj\Debug\Sportingstore.csproj.AssemblyReference.cache
+D:\Dev\Sportingstore3\obj\Debug\view\registration.baml
+D:\Dev\Sportingstore3\obj\Debug\view\showcase.baml
+D:\Dev\Sportingstore3\obj\Debug\MainWindow.g.cs
+D:\Dev\Sportingstore3\obj\Debug\view\catalog.g.cs
+D:\Dev\Sportingstore3\obj\Debug\view\registration.g.cs
+D:\Dev\Sportingstore3\obj\Debug\view\showcase.g.cs
+D:\Dev\Sportingstore3\obj\Debug\App.g.cs
+D:\Dev\Sportingstore3\obj\Debug\Sportingstore_MarkupCompile.cache
+D:\Dev\Sportingstore3\obj\Debug\Sportingstore_MarkupCompile.lref
+D:\Dev\Sportingstore3\obj\Debug\Sportingstore.exe
+D:\Dev\Sportingstore3\obj\Debug\Sportingstore.pdb
+D:\Dev\Sportingstore3\bin\Debug\Sportingstore.exe.config
+D:\Dev\Sportingstore3\bin\Debug\Sportingstore.exe
+D:\Dev\Sportingstore3\bin\Debug\Sportingstore.pdb
+D:\Dev\Sportingstore3\bin\Debug\EntityFramework.dll
+D:\Dev\Sportingstore3\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dev\Sportingstore3\bin\Debug\MaterialDesignColors.dll
+D:\Dev\Sportingstore3\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Dev\Sportingstore3\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Dev\Sportingstore3\bin\Debug\EntityFramework.xml
+D:\Dev\Sportingstore3\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dev\Sportingstore3\bin\Debug\MaterialDesignColors.pdb
+D:\Dev\Sportingstore3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Dev\Sportingstore3\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Dev\Sportingstore3\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Dev\Sportingstore3\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Dev\Sportingstore3\obj\Debug\MainWindow.baml
+D:\Dev\Sportingstore3\obj\Debug\view\catalog.baml
+D:\Dev\Sportingstore3\obj\Debug\Sportingstore.g.resources
+D:\Dev\Sportingstore3\obj\Debug\Sportingstore.Properties.Resources.resources
+D:\Dev\Sportingstore3\obj\Debug\Sportingstore.csproj.GenerateResource.cache
+D:\Dev\Sportingstore3\obj\Debug\Sportingstore.csproj.CoreCompileInputs.cache
+D:\Dev\Sportingstore3\obj\Debug\Sportingstore.csproj.CopyComplete
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\Sportingstore.exe.config
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\Sportingstore.exe
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\Sportingstore.pdb
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\EntityFramework.dll
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\MaterialDesignColors.pdb
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\Dev\piy\Sportingstore\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore.csproj.AssemblyReference.cache
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\view\showcase.baml
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\MainWindow.g.cs
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\view\showcase.g.cs
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\App.g.cs
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore_MarkupCompile.cache
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore_MarkupCompile.lref
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\MainWindow.baml
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore.g.resources
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore.Properties.Resources.resources
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore.csproj.GenerateResource.cache
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore.csproj.CoreCompileInputs.cache
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore.csproj.CopyComplete
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore.exe
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\Sportingstore.pdb
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\view\RegistrationPage.baml
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\view\RegistrationPage.g.cs
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\view\CatalogPage.g.cs
+C:\Users\user\Dev\piy\Sportingstore\obj\Debug\view\CatalogPage.baml
