@@ -23,5 +23,13 @@ namespace Sportingstore.view
         {
             InitializeComponent();
         }
+
+        private void FirstButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            showcase detailPage = new showcase();
+            Window mainWindow = new CatalogPage();
+            mainWindow.Close();
+            detailPage.Show();
+        }
     }
 }

@@ -13,7 +13,7 @@
         </Grid>
         <Grid Height="90" VerticalAlignment="Top" Background="ForestGreen">
             <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
-                <TextBox Foreground="White" Width="600" FontSize="20"/>
+                <TextBox Foreground="Black" Width="600" FontSize="20"/>
                 <materialDesign:PackIcon Kind="Magnify" Foreground="White" Width="25" Height="25" VerticalAlignment="Center" Margin="5"/>
             </StackPanel>
         </Grid>
@@ -44,8 +44,10 @@
                 <TextBlock Text="Описание" FontFamily="Comic Sans MS" FontSize="22" TextWrapping="Wrap" Foreground="Black"/>
                 <TextBlock Text="$ 100.99" FontFamily="Comic Sans MS" FontSize="20" Margin="0 15" Foreground="Black"/>
                 <Grid Width="200">
-                    <ComboBox materialDesign:HintAssist.Hint="SIZE" Padding="7" Background="DarkSeaGreen" Foreground="White" Margin="0,10,0,20" HorizontalAlignment="Left" Width="80" FontFamily="Comic Sans MS">
+                    <ComboBox materialDesign:HintAssist.Hint="SIZE" Padding="7" Background="DarkSeaGreen" Foreground="Green" Margin="0,10,0,20" HorizontalAlignment="Left" Width="80" FontFamily="Comic Sans MS">
+                        <ComboBoxItem Content="40"/>
                         <ComboBoxItem Content="41"/>
+                        <ComboBoxItem Content="42"/>
                         <ComboBoxItem Content="43"/>
                         <ComboBoxItem Content="45"/>
                     </ComboBox>

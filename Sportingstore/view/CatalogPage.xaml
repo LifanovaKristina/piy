@@ -7,102 +7,94 @@
         mc:Ignorable="d"
         Title="CatalogPage" Height="450" Width="800">
     <Grid Background="White" Margin="0,0,-213,-168">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="113*"/>
+            <RowDefinition Height="158*"/>
+            <RowDefinition Height="162*"/>
+            <RowDefinition Height="169*"/>
+        </Grid.RowDefinitions>
         <Grid Height="78" VerticalAlignment="Top" Background="DarkSeaGreen">
             <TextBlock  FontFamily="Comic Sans MS" Text="Название магазина" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontSize="40"/>
             <Image Source="/Sportingstore;component/img/logo.png" Height="67" VerticalAlignment="Top" Margin="10,4,721,0" RenderTransformOrigin="0.552,1.091"/>
         </Grid>
-        <Grid Background="DarkSeaGreen" Margin="167,109,179,394" HorizontalAlignment="Center">
+        <Grid Background="DarkSeaGreen" Margin="0,10,0,0" HorizontalAlignment="Center" Height="100" VerticalAlignment="Top" Width="667" Grid.Row="1">
 
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="150"/>
-                <ColumnDefinition Width="150"/>
-                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="101"/>
+                <ColumnDefinition Width="149"/>
                 <ColumnDefinition Width="27"/>
                 <ColumnDefinition Width="80"/>
                 <ColumnDefinition Width="110"/>
                 <ColumnDefinition Width="50"/>
 
+
             </Grid.ColumnDefinitions>
-            <Ellipse Width="110" Margin="40,10,0,10" HorizontalAlignment="Left">
+            <StackPanel Grid.ColumnSpan="4" Grid.Column="2" Margin="0,0,160,0" VerticalAlignment="Center">
+                <TextBlock Text="Название товара" FontFamily="Comic Sans MS" FontSize="24" Foreground="Black" HorizontalAlignment="Center"/>
+                <TextBlock Text="Описание" FontFamily="Comic Sans MS" FontSize="20" TextWrapping="Wrap" Foreground="Black" HorizontalAlignment="Center"/>
+            </StackPanel>
+            <Ellipse Width="80" Margin="40,10,0,10" HorizontalAlignment="Left">
                 <Ellipse.Fill>
-                    <ImageBrush ImageSource="/img/92886_179403_2.jpg"/>
+                    <ImageBrush ImageSource="/Sportingstore;component/img/92886_179403_2.jpg"/>
                 </Ellipse.Fill>
             </Ellipse>
-
-            <StackPanel Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Left">
-                <Button/>
-                <Button Margin="0 5 0 0"/>
-            </StackPanel>
-            <Button Grid.Column="5" Margin="31,0,-123,0" Grid.ColumnSpan="2" FontSize="30">
-                <Label Content="На страницу&#xD;&#xA;    товара"/>
+            <Button Grid.Column="5" Margin="32,0,0,0" Grid.ColumnSpan="2" FontSize="20" Height="99" VerticalAlignment="Center" UseLayoutRounding="False" Click="FirstButton_OnClick">
+                <Label Content="На страницу товара" HorizontalAlignment="Center" Height="89" VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ScrollViewer.HorizontalScrollBarVisibility="Hidden" UseLayoutRounding="False" FontSize="13" Width="132"/>
             </Button>
         </Grid>
-        <StackPanel Margin="364,109,0,394" HorizontalAlignment="Left" Width="290">
-            <TextBlock Text="Название товара" FontFamily="Comic Sans MS" FontSize="17" Margin="0 5" Foreground="Black"/>
-            <TextBlock Text="Описание" FontFamily="Comic Sans MS" FontSize="22" TextWrapping="Wrap" Foreground="Black"/>
-            <Grid Width="200"/>
-        </StackPanel>
-        <Grid Background="DarkSeaGreen" Margin="167,429,179,74" HorizontalAlignment="Center">
+        <Grid Background="DarkSeaGreen" HorizontalAlignment="Center" Grid.Row="2" Height="100" VerticalAlignment="Top" Width="667" Margin="0,10,0,0">
 
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="150"/>
-                <ColumnDefinition Width="150"/>
-                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="101"/>
+                <ColumnDefinition Width="149"/>
                 <ColumnDefinition Width="27"/>
                 <ColumnDefinition Width="80"/>
                 <ColumnDefinition Width="110"/>
                 <ColumnDefinition Width="50"/>
-
             </Grid.ColumnDefinitions>
-            <Ellipse Width="110" Margin="40,10,0,10" HorizontalAlignment="Left">
+            <StackPanel Grid.ColumnSpan="4" Grid.Column="2" Margin="0,0,160,0" VerticalAlignment="Center">
+                <TextBlock Text="Название товара" FontFamily="Comic Sans MS" FontSize="24" Foreground="Black" HorizontalAlignment="Center"/>
+                <TextBlock Text="Описание" FontFamily="Comic Sans MS" FontSize="20" TextWrapping="Wrap" Foreground="Black" HorizontalAlignment="Center"/>
+            </StackPanel>
+            <Ellipse Width="80" Margin="40,10,0,10" HorizontalAlignment="Left">
                 <Ellipse.Fill>
                     <ImageBrush ImageSource="/Sportingstore;component/img/92886_179403_2.jpg"/>
                 </Ellipse.Fill>
             </Ellipse>
 
-            <StackPanel Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Left">
-                <Button/>
-                <Button Margin="0 5 0 0"/>
-            </StackPanel>
-            <Button Grid.Column="5" Margin="31,0,-123,0" Grid.ColumnSpan="2" FontSize="30">
-                <Label Content="На страницу&#xA;    товара"/>
+            <Button Grid.Column="5" Margin="32,0,0,0" Grid.ColumnSpan="2" FontSize="30" Height="99" VerticalAlignment="Center" Click="FirstButton_OnClick">
+                <Label Content="На страницу товара" HorizontalAlignment="Center" Height="89" VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ScrollViewer.HorizontalScrollBarVisibility="Hidden" UseLayoutRounding="False" FontSize="13" Width="132"/>
             </Button>
         </Grid>
-        <Grid Background="DarkSeaGreen" Margin="167,267,179,236" HorizontalAlignment="Center">
+        <Grid Background="DarkSeaGreen" Margin="0,10,0,0" HorizontalAlignment="Center" Grid.Row="3" Height="99" VerticalAlignment="Top" Width="667">
 
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="150"/>
-                <ColumnDefinition Width="150"/>
-                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="101"/>
+                <ColumnDefinition Width="149"/>
                 <ColumnDefinition Width="27"/>
                 <ColumnDefinition Width="80"/>
                 <ColumnDefinition Width="110"/>
                 <ColumnDefinition Width="50"/>
 
+
             </Grid.ColumnDefinitions>
-            <Ellipse Width="110" Margin="40,10,0,10" HorizontalAlignment="Left">
+            <StackPanel Grid.ColumnSpan="4" Grid.Column="2" Margin="0,0,160,0" VerticalAlignment="Center">
+                <TextBlock Text="Название товара" FontFamily="Comic Sans MS" FontSize="24" Foreground="Black" HorizontalAlignment="Center"/>
+                <TextBlock Text="Описание" FontFamily="Comic Sans MS" FontSize="20" TextWrapping="Wrap" Foreground="Black" HorizontalAlignment="Center"/>
+            </StackPanel>
+            <Ellipse Width="80" Margin="40,10,0,10" HorizontalAlignment="Left">
                 <Ellipse.Fill>
                     <ImageBrush ImageSource="/Sportingstore;component/img/92886_179403_2.jpg"/>
                 </Ellipse.Fill>
             </Ellipse>
-
-            <StackPanel Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Left">
-                <Button/>
-                <Button Margin="0 5 0 0"/>
-            </StackPanel>
-            <Button Grid.Column="5" Margin="31,0,-123,0" Grid.ColumnSpan="2" FontSize="30">
-                <Label Content="На страницу&#xA;    товара"/>
+            <Button Grid.Column="5" Margin="32,0,0,0" Grid.ColumnSpan="2" FontSize="30" Height="99" VerticalAlignment="Center" Click="FirstButton_OnClick">
+                <Label Content="На страницу товара" HorizontalAlignment="Center" Height="89" VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ScrollViewer.HorizontalScrollBarVisibility="Hidden" UseLayoutRounding="False" FontSize="13" Width="132"/>
             </Button>
         </Grid>
-        <StackPanel Margin="364,267,0,236" HorizontalAlignment="Left" Width="290">
-            <TextBlock Text="Название товара" FontFamily="Comic Sans MS" FontSize="17" Margin="0 5" Foreground="Black"/>
-            <TextBlock Text="Описание" FontFamily="Comic Sans MS" FontSize="22" TextWrapping="Wrap" Foreground="Black"/>
-            <Grid Width="200"/>
-        </StackPanel>
-        <StackPanel Margin="364,429,0,74" HorizontalAlignment="Left" Width="290">
-            <TextBlock Text="Название товара" FontFamily="Comic Sans MS" FontSize="17" Margin="0 5" Foreground="Black"/>
-            <TextBlock Text="Описание" FontFamily="Comic Sans MS" FontSize="22" TextWrapping="Wrap" Foreground="Black"/>
-            <Grid Width="200"/>
-        </StackPanel>
+
+
     </Grid>
 </Window>
