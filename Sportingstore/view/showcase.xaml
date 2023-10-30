@@ -8,7 +8,7 @@
     <StackPanel>
         <Grid Height="102" VerticalAlignment="Top" Background="DarkSeaGreen">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10 0"/>
-            <TextBlock  FontFamily="Comic Sans MS" Text="Название магазина" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontSize="50"/>
+            <TextBlock  FontFamily="Comic Sans MS" Text="Runner Store" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontSize="50"/>
             <Image Source="/Sportingstore;component/img/logo.png" Height="82" VerticalAlignment="Top" Margin="10,10,959,0" RenderTransformOrigin="0.552,1.091"/>
         </Grid>
         <Grid Height="90" VerticalAlignment="Top" Background="ForestGreen">

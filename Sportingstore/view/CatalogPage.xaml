@@ -14,7 +14,7 @@
             <RowDefinition Height="169*"/>
         </Grid.RowDefinitions>
         <Grid Height="78" VerticalAlignment="Top" Background="DarkSeaGreen">
-            <TextBlock  FontFamily="Comic Sans MS" Text="Название магазина" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontSize="40"/>
+            <TextBlock  FontFamily="Comic Sans MS" Text="Runner Store" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontSize="40"/>
             <Image Source="/Sportingstore;component/img/logo.png" Height="67" VerticalAlignment="Top" Margin="10,4,721,0" RenderTransformOrigin="0.552,1.091"/>
         </Grid>
         <Grid Background="DarkSeaGreen" Margin="0,10,0,0" HorizontalAlignment="Center" Height="100" VerticalAlignment="Top" Width="667" Grid.Row="1">
