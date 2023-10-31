@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pzY9rRyL1H7AhHUSc3xj1lcblbOfaukFs/zAWnySxDgHry2FcHS685OcGptpX6n1oWBbV3bjSI9kebqxjn2vqA==",
+  "dgSpecHash": "HaJVwgeL3JYiX03jE6mexbTm2R4E901AeIQ7oehcnI6Ovv/B6PO7LrG05IjJd1Qa51ig/eqHa1zP5GEkR/nmaw==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\piy\\Sportingstore\\Sportingstore.csproj",
+  "projectFilePath": "C:\\Users\\user\\Dev\\piy\\Sportingstore\\Sportingstore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bixbe\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
-    "C:\\Users\\bixbe\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
-    "C:\\Users\\bixbe\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
-    "C:\\Users\\bixbe\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

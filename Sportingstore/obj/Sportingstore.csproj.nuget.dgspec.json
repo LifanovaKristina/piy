@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\piy\\Sportingstore\\Sportingstore.csproj": {}
+    "C:\\Users\\user\\Dev\\piy\\Sportingstore\\Sportingstore.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\piy\\Sportingstore\\Sportingstore.csproj": {
+    "C:\\Users\\user\\Dev\\piy\\Sportingstore\\Sportingstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\piy\\Sportingstore\\Sportingstore.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Dev\\piy\\Sportingstore\\Sportingstore.csproj",
         "projectName": "Sportingstore",
-        "projectPath": "D:\\Dev\\piy\\Sportingstore\\Sportingstore.csproj",
-        "packagesPath": "C:\\Users\\bixbe\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\piy\\Sportingstore\\obj\\",
+        "projectPath": "C:\\Users\\user\\Dev\\piy\\Sportingstore\\Sportingstore.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Dev\\piy\\Sportingstore\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\bixbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,9 +47,6 @@
       },
       "runtimes": {
         "win": {
-          "#import": []
-        },
-        "win-arm64": {
           "#import": []
         },
         "win-x64": {
